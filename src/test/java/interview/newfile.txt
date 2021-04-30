@@ -1,6 +1,5 @@
 Add letters
 a
 b
-c
 d
 e
