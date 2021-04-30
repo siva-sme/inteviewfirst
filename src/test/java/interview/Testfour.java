@@ -85,6 +85,8 @@ public class Testfour extends Base{
 		System.out.println("Git Passed");
 		
 		System.out.println("Clone test Passed");
+		
+		System.out.println("Clone test updated Passed");
 
 	}
 
