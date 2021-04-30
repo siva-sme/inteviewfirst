@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="9" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-27T18:42:18 IST" name="Surefire suite" finished-at="2021-04-27T18:43:29 IST" duration-ms="70560">
+    <groups>
+    </groups>
+    <test started-at="2021-04-27T18:42:18 IST" name="Surefire test" finished-at="2021-04-27T18:43:29 IST" duration-ms="70560">
+      <class name="interview.Testtwo">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:interview.Testtwo@7ff2a664]" started-at="2021-04-27T18:42:50 IST" name="browseropen" finished-at="2021-04-27T18:43:00 IST" duration-ms="10469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="alertTest()[pri:0, instance:interview.Testtwo@7ff2a664]" started-at="2021-04-27T18:43:00 IST" name="alertTest" finished-at="2021-04-27T18:43:03 IST" duration-ms="2440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertTest -->
+        <test-method signature="windowSwitchTest()[pri:0, instance:interview.Testtwo@7ff2a664]" started-at="2021-04-27T18:43:03 IST" name="windowSwitchTest" finished-at="2021-04-27T18:43:09 IST" duration-ms="6681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowSwitchTest -->
+        <test-method signature="windowTabTest()[pri:0, instance:interview.Testtwo@7ff2a664]" started-at="2021-04-27T18:43:09 IST" name="windowTabTest" finished-at="2021-04-27T18:43:27 IST" duration-ms="17710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowTabTest -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:interview.Testtwo@7ff2a664]" started-at="2021-04-27T18:43:27 IST" name="browserClose" finished-at="2021-04-27T18:43:29 IST" duration-ms="1632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- interview.Testtwo -->
+      <class name="interview.Testthree">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:interview.Testthree@709ba3fb]" started-at="2021-04-27T18:42:36 IST" name="browseropen" finished-at="2021-04-27T18:42:47 IST" duration-ms="10516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="autoDropdownTest()[pri:0, instance:interview.Testthree@709ba3fb]" started-at="2021-04-27T18:42:47 IST" name="autoDropdownTest" finished-at="2021-04-27T18:42:49 IST" duration-ms="1893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoDropdownTest -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:interview.Testthree@709ba3fb]" started-at="2021-04-27T18:42:49 IST" name="browserClose" finished-at="2021-04-27T18:42:50 IST" duration-ms="1080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- interview.Testthree -->
+      <class name="interview.Testone">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:interview.Testone@dd3b207]" started-at="2021-04-27T18:42:18 IST" name="browseropen" finished-at="2021-04-27T18:42:32 IST" duration-ms="13843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseropen -->
+        <test-method signature="checkboxTest()[pri:0, instance:interview.Testone@dd3b207]" started-at="2021-04-27T18:42:32 IST" name="checkboxTest" finished-at="2021-04-27T18:42:34 IST" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxTest -->
+        <test-method signature="dropDownTest()[pri:0, instance:interview.Testone@dd3b207]" started-at="2021-04-27T18:42:34 IST" name="dropDownTest" finished-at="2021-04-27T18:42:35 IST" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownTest -->
+        <test-method signature="firstTest()[pri:0, instance:interview.Testone@dd3b207]" started-at="2021-04-27T18:42:35 IST" name="firstTest" finished-at="2021-04-27T18:42:35 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:interview.Testone@dd3b207]" started-at="2021-04-27T18:42:35 IST" name="browserClose" finished-at="2021-04-27T18:42:36 IST" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- interview.Testone -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
